@@ -24,7 +24,7 @@ us={
 
     youtube_videos:[
         "https://www.youtube.com/embed/2T0qYU1vMXA",
-        "https://www.youtube.com/embed/2T0qYU1vMXA"
+        "https://www.youtube.com/watch?v=frXAmFYPHgA"
     ],
 
 
